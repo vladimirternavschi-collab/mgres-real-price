@@ -321,6 +321,13 @@ section.deep h2{max-width:19ch}
 .rb2.on{border-color:var(--amber-lit);background:var(--amber-dim);color:var(--ink)}
 @media (pointer:coarse){.rb2{min-height:2.75rem;padding:.6rem 1rem;font-size:.86rem}}
 
+/* Заголовок шапки - это вопрос из комментариев, ради которого страница и сделана.
+   Мелкая строка над ним нужна, чтобы читатель не принял вопрос за позицию автора,
+   а первая фраза лида сразу отвечает. */
+.hero-kick{font-size:.88rem;color:var(--ink-3);margin-bottom:.95rem;line-height:1.4}
+.hero h1.hero-q{max-width:min(20ch,100%);font-weight:800;
+  font-size:clamp(2.05rem,1.1rem + 4.3vw,4.2rem);letter-spacing:-.035em}
+
 /* Рисунок в шапке живёт в тех же колонках, что и блок с ценами над ним:
    та же пропорция 1.35fr / 1fr и тот же отступ, что у .hero-grid. Поэтому его
    левый и правый края встают ровно под краями блока с ценами, а низ - на одной
@@ -391,9 +398,9 @@ footer::before{content:"";position:absolute;inset:0 0 auto;height:1px;
 
 <header class="hero"><div class="wrap"><div class="hero-grid">
   <div>
-    <p class="hero-quote">«У нас же есть Молдавская ГРЭС. Почему мы её не используем и не получаем электричество по 2 лея, как было раньше?»</p>
-    <h1>Все цифры, на которых построен разбор</h1>
-    <p class="lead">Здесь то, что не поместилось в пост: графики, из которых видно, откуда взялась каждая цифра, и таблица со всеми 768 фактами. У каждого числа указан документ, страница и способ расчёта. Смотрите, спорьте, проверяйте.</p>
+    <p class="hero-kick">Так спрашивают в комментариях под моим постом</p>
+    <h1 class="hero-q">«У нас же есть Молдавская ГРЭС. Почему не 2 лея, как раньше?»</h1>
+    <p class="lead">Вопрос справедливый. Здесь то, что не поместилось в пост: графики, из которых видно, откуда взялась каждая цифра, и таблица со всеми 768 фактами. У каждого числа указан документ, страница и способ расчёта. Смотрите, спорьте, проверяйте.</p>
   </div>
   <div class="facts">
     <p class="facts-h">Что Кишинёв платил за 100 киловатт-часов электричества с МГРЭС</p>
@@ -403,7 +410,7 @@ footer::before{content:"";position:absolute;inset:0 0 auto;height:1px;
 </div>
   <div class="hero-foot">
   <p class="units"><b>Цент за киловатт-час</b> - цена на границе: столько получал продавец, без доставки по проводам. <b>Лей за 100 киловатт-часов</b> - то, что видно в квитанции: сюда входит и сама энергия, и доставка по сетям. НДС на электричество для домов сейчас нулевой.</p>
-  <svg class="hmark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" fill="none" stroke="currentColor" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M34 34 L446 34" stroke-width=".9" opacity=".5"/><path d="M34 92 L446 92" stroke-width=".9" opacity=".5"/><path d="M34 150 L446 150" stroke-width=".9" opacity=".5"/><path d="M34 208 L446 208" stroke-width=".9" opacity=".5"/><path d="M34 266 L446 266" stroke-width=".9" opacity=".5"/><path d="M34 34 L34 266" stroke-width=".7" opacity=".3"/><path d="M103 34 L103 266" stroke-width=".7" opacity=".3"/><path d="M171 34 L171 266" stroke-width=".7" opacity=".3"/><path d="M240 34 L240 266" stroke-width=".7" opacity=".3"/><path d="M309 34 L309 266" stroke-width=".7" opacity=".3"/><path d="M377 34 L377 266" stroke-width=".7" opacity=".3"/><path d="M446 34 L446 266" stroke-width=".7" opacity=".3"/><path d="M34.0 129.7 L102.7 118.1 L171.3 138.4 L240.0 155.8 L308.7 76.1 L377.3 34.0 L446.0 86.2" stroke-width="2.3"/><path d="M34.0 186.2 L102.7 189.2 L171.3 194.9 L240.0 194.9 L308.7 184.8 L377.3 163.1 L446.0 170.3" stroke-width="1.7"/><circle cx="34.0" cy="129.7" r="3.4" stroke-width="1.6"/><circle cx="102.7" cy="118.1" r="3.4" stroke-width="1.6"/><circle cx="171.3" cy="138.4" r="3.4" stroke-width="1.6"/><circle cx="240.0" cy="155.8" r="3.4" stroke-width="1.6"/><circle cx="308.7" cy="76.1" r="3.4" stroke-width="1.6"/><circle cx="377.3" cy="34.0" r="3.4" stroke-width="1.6"/><circle cx="446.0" cy="86.2" r="3.4" stroke-width="1.6"/><path d="M377 34 L377 20" stroke-dasharray="4 5" stroke-width="1.4"/><path d="M369 26 L377 16 L385 26" stroke-width="1.6"/><path d="M34 266 L446 266"/><path d="M34 14 L34 266"/></svg>
+  <svg class="hmark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 292" width="480" height="292" fill="none" stroke="currentColor" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M3 79 L477 79" stroke-width=".9" opacity=".5"/><path d="M3 131 L477 131" stroke-width=".9" opacity=".5"/><path d="M3 184 L477 184" stroke-width=".9" opacity=".5"/><path d="M3 236 L477 236" stroke-width=".9" opacity=".5"/><path d="M87 26 L87 289" stroke-width=".7" opacity=".3"/><path d="M163 26 L163 289" stroke-width=".7" opacity=".3"/><path d="M240 26 L240 289" stroke-width=".7" opacity=".3"/><path d="M317 26 L317 289" stroke-width=".7" opacity=".3"/><path d="M393 26 L393 289" stroke-width=".7" opacity=".3"/><path d="M10.0 134.5 L86.7 121.3 L163.3 144.3 L240.0 164.1 L316.7 73.7 L393.3 26.0 L470.0 85.2" stroke-width="2.3"/><path d="M10.0 198.6 L86.7 201.9 L163.3 208.5 L240.0 208.5 L316.7 197.0 L393.3 172.3 L470.0 180.5" stroke-width="1.7"/><circle cx="10.0" cy="134.5" r="3.4" stroke-width="1.6"/><circle cx="86.7" cy="121.3" r="3.4" stroke-width="1.6"/><circle cx="163.3" cy="144.3" r="3.4" stroke-width="1.6"/><circle cx="240.0" cy="164.1" r="3.4" stroke-width="1.6"/><circle cx="316.7" cy="73.7" r="3.4" stroke-width="1.6"/><circle cx="393.3" cy="26.0" r="3.4" stroke-width="1.6"/><circle cx="470.0" cy="85.2" r="3.4" stroke-width="1.6"/><path d="M393 26 L393 14" stroke-dasharray="4 5" stroke-width="1.4"/><path d="M385 22 L393 12 L401 22" stroke-width="1.6"/><path d="M3 289 L477 289"/><path d="M3 10 L3 289"/></svg>
   </div>
 </div></header>
 <section id="scen"><div class="wrap">
