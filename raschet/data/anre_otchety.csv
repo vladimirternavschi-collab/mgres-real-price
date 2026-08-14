@@ -1,0 +1,77 @@
+﻿дата,ряд,показатель,значение,единица,источник_файл,флаг
+2018-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,2544.0,млн кВт·ч,Raport anual de activitate   ANRE 2018.pdf,"«Figura 1. Evoluția producerii, importului şi procurărilor de energie electrică în perioada 2001-2018, mil. kWh», линия «CTE Moldovenească, Transnistria», стр. PDF 10"
+2018-01-01,Годовые отчёты ANRE,Импорт э/э (ANRE),956.0,млн кВт·ч,Raport anual de activitate   ANRE 2018.pdf,"«Figura 1», линия «Importul de energie», стр. PDF 10"
+2021-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,3445.6,млн кВт·ч,Raport 2021 Final 1.pdf,стр. PDF 21
+2022-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,2706.0,млн кВт·ч,Raport privind Activitatea ANRE in anul 2022.pdf,стр. PDF 17
+2023-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,3278.5,млн кВт·ч,Raportul de activitate 2023.pdf,стр. PDF 17
+2024-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,3068.8,млн кВт·ч,Raportul privind Activitatea ANRE în anul 2024.pdf,стр. PDF 10
+2025-01-01,Годовые отчёты ANRE,Закупка э/э у CTE Moldovenească,0.0,млн кВт·ч,Raportul de activitate 2025.pdf,стр. PDF 10
+2012-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, центр (RED Union Fenosa), с мая 2012",152.0,бань/кВт·ч,Raport anual de activitate a ANRE pentru anul 2012_0.pdf,стр. PDF 30: «tariful mediu de furnizare a energiei electrice pentru consumatorii deserviţi de Î.C.S. RED Union Fenosa S.A. din mai 2012 a fost determinat în mărime de 152 bani/kWh»
+2012-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, север (RED Nord), с мая 2012",167.0,бань/кВт·ч,Raport anual de activitate a ANRE pentru anul 2012_0.pdf,стр. PDF 30: «tariful mediu de livrare pentru consumatorii deserviţi de S.A. RED Nord - în mărime de 167 bani/kWh»
+2017-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, центр (Gas Natural Fenosa), с марта 2017",192.0,бань/кВт·ч,Raport anual de activitate a ANRE in anul 2017.pdf,стр. PDF 98: «prețul mediu de furnizare a energiei electrice pentru consumatorii finali ai Î.C.S. Gas Natural Fenosa Furnizare Energie S.R.L. din martie 2017 a fost stabilit în mărime de 192 bani/kWh»
+2017-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, север (FEE Nord), с марта 2017",202.0,бань/кВт·ч,Raport anual de activitate a ANRE in anul 2017.pdf,стр. PDF 98: «consumatorilor finali ai S.A. Furnizarea Energiei Electrice Nord ... 202 bani/kWh»
+2018-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, центр (Gas Natural Fenosa), с 01.07.2018",173.0,бань/кВт·ч,Raport anual de activitate   ANRE 2018.pdf,"стр. PDF 107: «din 1 iulie 2018 a fost stabilit în mărime de 173 bani/kWh, cu 10.1 % mai mic față de prețul anterior»"
+2018-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, север (FEE Nord), с 01.07.2018",179.0,бань/кВт·ч,Raport anual de activitate   ANRE 2018.pdf,стр. PDF 107: «pentru consumatorii S.A. Furnizarea Energiei Electrice Nord a fost stabilit în mărime de 179 bani/kWh»
+2019-01-01,Годовые отчёты ANRE,"Тариф поставки э/э, центр (Premier Energy), с 23.08.2019",177.0,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,стр. PDF 109: «prețul mediu de furnizare a energiei electrice pentru consumatorii Î.C.S. Premier Energy S.R.L. din 23 august 2019 a fost stabilit în mărime de 177 bani/kWh»
+2005-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),76.1,USD/1000 м³,Raport anual de activitate a ANRE in anul 2017.pdf,"Табл. 12, стр. PDF 24"
+2010-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),250.1,USD/1000 м³,Raport anual de activitate a ANRE in anul 2017.pdf,"Табл. 12, стр. PDF 24"
+2015-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),256.0,USD/1000 м³,Raport anual de activitate a ANRE in anul 2017.pdf,"Табл. 12, стр. PDF 24"
+2016-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),193.5,USD/1000 м³,Raport anual de activitate a ANRE in anul 2017.pdf,"Табл. 12, стр. PDF 24"
+2017-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),162.05,USD/1000 м³,Raport 2021 Final 1.pdf,"Табл. 13, стр. PDF 42"
+2018-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),217.5,USD/1000 м³,Raport 2021 Final 1.pdf,"Табл. 13, стр. PDF 42"
+2019-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),233.7,USD/1000 м³,Raport 2021 Final 1.pdf,"Табл. 13, стр. PDF 42"
+2020-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),148.87,USD/1000 м³,Raport 2021 Final 1.pdf,"Табл. 13, стр. PDF 42"
+2021-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),309.5,USD/1000 м³,Raport 2021 Final 1.pdf,"Табл. 13, стр. PDF 42"
+2022-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),841.6,USD/1000 м³,Raport privind Activitatea ANRE in anul 2022.pdf,стр. PDF 40
+2023-01-01,Годовые отчёты ANRE,Средняя цена закупки газа (правый берег),783.9,USD/1000 м³,Raportul de activitate 2023.pdf,"Табл. 14, стр. PDF 43"
+2025-01-01,Годовые отчёты ANRE,"Поставка газа Moldovagaz → Tiraspoltransgaz, февраль-декабрь",689.2,млн м³,Raportul de activitate 2025.pdf,стр. PDF 51
+2010-01-01,Годовые отчёты ANRE,Контрактная цена э/э CERS Moldovenească (до пересмотра),4.69,цент/кВт·ч,Raport final 2010_31.03.11.doc,"раздел о тарифах, январь 2010"
+2010-01-01,Годовые отчёты ANRE,"Контрактная цена э/э CERS Moldovenească (после пересмотра, +24%)",5.83,цент/кВт·ч,Raport final 2010_31.03.11.doc,"раздел о тарифах, январь 2010"
+2020-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,175.9,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2021-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,154.0,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2022-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,242.8,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2023-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,290.9,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2024-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,228.0,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2025-01-01,Годовые отчёты ANRE,Средняя цена поставки э/э потребителям без НДС,366.6,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2020-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,97.3,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2021-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,104.1,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2022-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,173.0,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2023-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,178.7,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2024-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,167.8,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2025-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,238.7,бань/кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2025-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4710.1,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2024-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4626.1,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2023-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4333.1,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2022-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4512.9,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2021-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4591.7,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2020-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4269.8,млн кВт·ч,Raportul de activitate 2025.pdf,"Табл. 2, стр. PDF 10"
+2001-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,36.36,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2005-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,35.13,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2010-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,75.75,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2017-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,99.04,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2018-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,99.36,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2019-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,105.6,бань/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2001-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,3194.8,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2005-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,3359.5,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2010-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,3835.7,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2017-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4066.4,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2018-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4178.8,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2019-01-01,Годовые отчёты ANRE,Закупка э/э лицензиатами всего,4301.9,млн кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"Табл. 1, стр. PDF 16"
+2022-01-01,Годовые отчёты ANRE,"Цена закупки э/э у CTE Moldovenească, декабрь",73.5,USD/МВт·ч,Raport privind Activitatea ANRE in anul 2022.pdf,"стр. PDF 17: «creșterea prețului de procurare a energiei electrice de la sursa principală CTE Moldovenească cu circa 37,4 %, ajungând în luna decembrie la valoarea de 73,5 USD/MWh»"
+2022-01-01,Годовые отчёты ANRE,"Диапазон цен закупки э/э на рынке Румынии, нижняя граница",90.0,USD/МВт·ч,Raport privind Activitatea ANRE in anul 2022.pdf,стр. PDF 17
+2022-01-01,Годовые отчёты ANRE,"Диапазон цен закупки э/э на рынке Румынии, верхняя граница",250.0,USD/МВт·ч,Raport privind Activitatea ANRE in anul 2022.pdf,стр. PDF 17
+2018-01-01,Годовые отчёты ANRE,"Средняя цена импорта э/э (blended, вкл. МГРЭС)",5.16,цент/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,"стр. PDF 109: «majorarea prețului mediu de import al energiei electrice de la 5,16 ¢/kWh la 5,38 ¢/kWh»"
+2019-01-01,Годовые отчёты ANRE,"Средняя цена импорта э/э (blended, вкл. МГРЭС)",5.38,цент/кВт·ч,RAPORT DE ACTIVITATE 2019 FINAL 30.11.2020.docx.pdf,стр. PDF 109
+2009-01-01,Годовые отчёты ANRE,Цена закупки газа Moldovagaz у Газпрома (до 01.01.2010),196.6,USD/1000 м³,Raport final 2010_31.03.11.doc,"«majorarea, cu începere din 1 ianuarie 2010, a preţului de procurare a gazelor naturale de către S.A. „Moldovagaz” de la concernul rus S.A.D. „Gazprom” cu 17,9%, de la 196,6 USD până la 231,7 USD»"
+2010-01-01,Годовые отчёты ANRE,Цена закупки газа Moldovagaz у Газпрома (с 01.01.2010),231.7,USD/1000 м³,Raport final 2010_31.03.11.doc,тот же абзац
+2010-01-01,Годовые отчёты ANRE,Средний тариф на газ для конечных потребителей,3542.0,лей/1000 м³,Raport final 2010_31.03.11.doc,"«creştere cu 13,9 % a tarifului mediu la gazele naturale... 3542 lei/1000 m3»"
+2010-01-01,Годовые отчёты ANRE,"Курс, применённый ANRE в тарифном решении",12.3,лей/USD,Raport final 2010_31.03.11.doc,"«devalorizarea valutei naţionale... la 12,3 lei/$»"
+2009-01-01,Годовые отчёты ANRE,"Курс, применённый ANRE в предыдущем тарифе",10.7,лей/USD,Raport final 2010_31.03.11.doc,"«de la 10,7 lei/$ (rată prevăzută în tariful precedent)»"
+2011-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,81.6,бань/кВт·ч,Raport anual de activitate a ANRE pentru anul 2013_2.pdf,"Табл. 8, стр. PDF ~24; текстового слоя нет, извлечено OCR (tesseract -l ron). Методика: только операторы распредсетей, без правомочных потребителей"
+2012-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,94.83,бань/кВт·ч,Raport anual de activitate a ANRE pentru anul 2013_2.pdf,"Табл. 8, OCR"
+2013-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,98.59,бань/кВт·ч,RAPORT 2014_de_activitate.pdf,"Табл. 1, стр. PDF 5"
+2014-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,105.72,бань/кВт·ч,RAPORT 2014_de_activitate.pdf,"Табл. 1, стр. PDF 5"
+2015-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,132.91,бань/кВт·ч,Raport anual de activitate 2015.pdf,"Табл. 1, стр. PDF 9"
+2016-01-01,Годовые отчёты ANRE,Средняя цена закупки э/э лицензиатами,113.31,бань/кВт·ч,Raport anual de activitate_2016.pdf,"Табл. 1, стр. PDF 6"
+2016-01-01,Годовые отчёты ANRE,Платежи Молдовы за э/э МГРЭС (вторичный источник),178.0,млн $,"bne IntelliNews, «Moldova terminates power contract with Transnistria»","ВТОРИЧНЫЙ ИСТОЧНИК, первичного подтверждения нет: «In total, Moldova paid Transnistria $178mn for the electricity imported in 2016»"
+2017-01-01,Годовые отчёты ANRE,"Цена победителя тендера 2017 (DTEK Trading, Украина)",50.2,USD/МВт·ч,"Ministerul Economiei RM, 01.04.2017","контракт Energocom-DTEK на 01.04.2017-31.03.2018; оферты МГРЭС 58,5 и 54,4 отклонены"

@@ -1,0 +1,145 @@
+﻿дата,ряд,показатель,значение,единица,источник_файл,флаг
+2022-01-01,BAFA пограничная цена,Preis Euro/TJ,14088.24036066897,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-01-01,BAFA пограничная цена,Menge,406356.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-01-01,BAFA пограничная цена,Preis Euro/TJ,4159.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-01-01,BAFA пограничная цена,Menge,442876.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-02-01,BAFA пограничная цена,Preis Euro/TJ,13277.583641165338,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-02-01,BAFA пограничная цена,Menge,360857.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-02-01,BAFA пограничная цена,Preis Euro/TJ,4350.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-02-01,BAFA пограничная цена,Menge,491662.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-03-01,BAFA пограничная цена,Preis Euro/TJ,14756.386964608211,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-03-01,BAFA пограничная цена,Menge,370990.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-03-01,BAFA пограничная цена,Preis Euro/TJ,4279.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-03-01,BAFA пограничная цена,Menge,529340.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-04-01,BAFA пограничная цена,Preis Euro/TJ,17667.973899888817,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-04-01,BAFA пограничная цена,Menge,329194.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-04-01,BAFA пограничная цена,Preis Euro/TJ,4482.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-04-01,BAFA пограничная цена,Menge,417545.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-05-01,BAFA пограничная цена,Preis Euro/TJ,15072.797906438918,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-05-01,BAFA пограничная цена,Menge,295764.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-05-01,BAFA пограничная цена,Preis Euro/TJ,4988.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-05-01,BAFA пограничная цена,Menge,405837.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-06-01,BAFA пограничная цена,Preis Euro/TJ,17594.309998003777,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-06-01,BAFA пограничная цена,Menge,260492.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-06-01,BAFA пограничная цена,Preis Euro/TJ,5342.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-06-01,BAFA пограничная цена,Menge,384431.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-07-01,BAFA пограничная цена,Preis Euro/TJ,28811.158351209124,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-07-01,BAFA пограничная цена,Menge,259196.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-07-01,BAFA пограничная цена,Preis Euro/TJ,5913.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-07-01,BAFA пограничная цена,Menge,393887.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-08-01,BAFA пограничная цена,Preis Euro/TJ,41255.249486573484,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-08-01,BAFA пограничная цена,Menge,271217.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-08-01,BAFA пограничная цена,Preis Euro/TJ,6581.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-08-01,BAFA пограничная цена,Menge,392856.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-09-01,BAFA пограничная цена,Preis Euro/TJ,35626.84002060654,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-09-01,BAFA пограничная цена,Menge,236818.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-09-01,BAFA пограничная цена,Preis Euro/TJ,7727.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-09-01,BAFA пограничная цена,Menge,366065.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-10-01,BAFA пограничная цена,Preis Euro/TJ,18741.21186220535,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-10-01,BAFA пограничная цена,Menge,238674.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-10-01,BAFA пограничная цена,Preis Euro/TJ,11848.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-10-01,BAFA пограничная цена,Menge,392784.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-11-01,BAFA пограничная цена,Preis Euro/TJ,21267.05073827939,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-11-01,BAFA пограничная цена,Menge,264534.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-11-01,BAFA пограничная цена,Preis Euro/TJ,12273.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-11-01,BAFA пограничная цена,Menge,388297.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2022-12-01,BAFA пограничная цена,Preis Euro/TJ,26050.714242242448,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2022-12-01,BAFA пограничная цена,Menge,230034.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2021-12-01,BAFA пограничная цена,Preis Euro/TJ,14973.0,EUR/ТДж,egas_aufkommen_export_1999.xlsx,
+2021-12-01,BAFA пограничная цена,Menge,403363.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-01-01,BAFA пограничная цена,Preis Euro/TJ,19.83407317080758,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-01-01,BAFA пограничная цена,Menge,321467.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-02-01,BAFA пограничная цена,Preis Euro/TJ,18.26594629069746,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-02-01,BAFA пограничная цена,Menge,326126.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-03-01,BAFA пограничная цена,Preis Euro/TJ,16.766790162699568,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-03-01,BAFA пограничная цена,Menge,374371.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-04-01,BAFA пограничная цена,Preis Euro/TJ,18.169811092127425,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-04-01,BAFA пограничная цена,Menge,330108.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-05-01,BAFA пограничная цена,Preis Euro/TJ,16.112731447152328,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-05-01,BAFA пограничная цена,Menge,364122.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-06-01,BAFA пограничная цена,Preis Euro/TJ,16.961466040001778,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-06-01,BAFA пограничная цена,Menge,337235.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-07-01,BAFA пограничная цена,Preis Euro/TJ,15.452131482802486,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-07-01,BAFA пограничная цена,Menge,368687.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-08-01,BAFA пограничная цена,Preis Euro/TJ,16.76333225343108,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-08-01,BAFA пограничная цена,Menge,348797.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-09-01,BAFA пограничная цена,Preis Euro/TJ,16.163176223642783,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-09-01,BAFA пограничная цена,Menge,335392.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-10-01,BAFA пограничная цена,Preis Euro/TJ,13.404398484258243,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-10-01,BAFA пограничная цена,Menge,395318.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-11-01,BAFA пограничная цена,Preis Euro/TJ,13.75118757890079,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-11-01,BAFA пограничная цена,Menge,384185.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2015-12-01,BAFA пограничная цена,Preis Euro/TJ,12.798325753612106,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2015-12-01,BAFA пограничная цена,Menge,397552.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-01-01,BAFA пограничная цена,Preis Euro/TJ,13.941786737332231,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-01-01,BAFA пограничная цена,Menge,372836.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-02-01,BAFA пограничная цена,Preis Euro/TJ,15.372956275681625,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-02-01,BAFA пограничная цена,Menge,347038.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-03-01,BAFA пограничная цена,Preis Euro/TJ,14.59806551247663,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-03-01,BAFA пограничная цена,Menge,369090.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-04-01,BAFA пограничная цена,Preis Euro/TJ,16.59758720831546,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-04-01,BAFA пограничная цена,Menge,324023.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-05-01,BAFA пограничная цена,Preis Euro/TJ,16.527756031170586,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-05-01,BAFA пограничная цена,Menge,332108.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-06-01,BAFA пограничная цена,Preis Euro/TJ,21.397004571489422,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-06-01,BAFA пограничная цена,Menge,262934.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-07-01,BAFA пограничная цена,Preis Euro/TJ,22.380651912955155,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-07-01,BAFA пограничная цена,Menge,259912.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-08-01,BAFA пограничная цена,Preis Euro/TJ,26.024817294608503,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-08-01,BAFA пограничная цена,Menge,221942.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-09-01,BAFA пограничная цена,Preis Euro/TJ,26.172671651937456,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-09-01,BAFA пограничная цена,Menge,223592.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-10-01,BAFA пограничная цена,Preis Euro/TJ,19.80134551713307,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-10-01,BAFA пограничная цена,Menge,311999.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-11-01,BAFA пограничная цена,Preis Euro/TJ,19.361517923631585,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-11-01,BAFA пограничная цена,Menge,330346.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2010-12-01,BAFA пограничная цена,Preis Euro/TJ,17.035766049961634,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2010-12-01,BAFA пограничная цена,Menge,375328.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-01-01,BAFA пограничная цена,Preis Euro/TJ,12.054821317227635,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-01-01,BAFA пограничная цена,Menge,327172.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-02-01,BAFA пограничная цена,Preis Euro/TJ,13.276127525151974,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-02-01,BAFA пограничная цена,Menge,301368.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-03-01,BAFA пограничная цена,Preis Euro/TJ,13.225012309207289,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-03-01,BAFA пограничная цена,Menge,304650.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-04-01,BAFA пограничная цена,Preis Euro/TJ,14.471555604115194,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-04-01,BAFA пограничная цена,Menge,283729.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-05-01,BAFA пограничная цена,Preis Euro/TJ,14.570133178183468,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-05-01,BAFA пограничная цена,Menge,281878.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-06-01,BAFA пограничная цена,Preis Euro/TJ,16.866991159233137,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-06-01,BAFA пограничная цена,Menge,251675.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-07-01,BAFA пограничная цена,Preis Euro/TJ,17.59146737142655,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-07-01,BAFA пограничная цена,Menge,254271.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-08-01,BAFA пограничная цена,Preis Euro/TJ,18.72302400863232,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-08-01,BAFA пограничная цена,Menge,237248.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-09-01,BAFA пограничная цена,Preis Euro/TJ,20.48929802080173,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-09-01,BAFA пограничная цена,Menge,220847.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-10-01,BAFA пограничная цена,Preis Euro/TJ,18.94248283325585,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-10-01,BAFA пограничная цена,Menge,262426.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-11-01,BAFA пограничная цена,Preis Euro/TJ,17.12536621053702,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-11-01,BAFA пограничная цена,Menge,304811.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2005-12-01,BAFA пограничная цена,Preis Euro/TJ,13.891875838479422,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2005-12-01,BAFA пограничная цена,Menge,390588.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-01-01,BAFA пограничная цена,Preis Euro/TJ,7.289141304382822,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-01-01,BAFA пограничная цена,Menge,310599.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-02-01,BAFA пограничная цена,Preis Euro/TJ,7.752944820213606,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-02-01,BAFA пограничная цена,Menge,300273.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-03-01,BAFA пограничная цена,Preis Euro/TJ,7.90186091938201,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-03-01,BAFA пограничная цена,Menge,305118.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-04-01,BAFA пограничная цена,Preis Euro/TJ,11.373736018647394,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-04-01,BAFA пограничная цена,Menge,238532.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-05-01,BAFA пограничная цена,Preis Euro/TJ,13.387046792686705,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-05-01,BAFA пограничная цена,Menge,209755.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-06-01,BAFA пограничная цена,Preis Euro/TJ,16.031538885764366,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-06-01,BAFA пограничная цена,Menge,183139.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-07-01,BAFA пограничная цена,Preis Euro/TJ,15.49073042647995,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-07-01,BAFA пограничная цена,Menge,201088.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-08-01,BAFA пограничная цена,Preis Euro/TJ,19.584583954899742,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-08-01,BAFA пограничная цена,Menge,166917.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-09-01,BAFA пограничная цена,Preis Euro/TJ,19.22466027413377,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-09-01,BAFA пограничная цена,Menge,169990.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-10-01,BAFA пограничная цена,Preis Euro/TJ,16.22487251885878,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-10-01,BAFA пограничная цена,Menge,213561.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-11-01,BAFA пограничная цена,Preis Euro/TJ,14.582929758630042,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-11-01,BAFA пограничная цена,Menge,258110.0,ТДж,egas_aufkommen_export_1999.xlsx,
+2000-12-01,BAFA пограничная цена,Preis Euro/TJ,13.351369393742424,EUR/ТДж,egas_aufkommen_export_1999.xlsx,вычислено C/B*1000
+2000-12-01,BAFA пограничная цена,Menge,284615.0,ТДж,egas_aufkommen_export_1999.xlsx,
